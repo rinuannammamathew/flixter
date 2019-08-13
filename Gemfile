@@ -98,4 +98,6 @@ gem 'stripe'
 
 gem 'ranked-model'
 
+gem 'childprocess', '~> 0.5.9'
+
 
